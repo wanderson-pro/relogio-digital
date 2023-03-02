@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-image: linear-gradient(to bottom, #01E4EA, #B82212);
     background-attachment: fixed;
@@ -18,7 +23,7 @@ body {
 
 div > h1 {
     font-size: 4em;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .tempo {
